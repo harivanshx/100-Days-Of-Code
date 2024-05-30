@@ -1,8 +1,9 @@
-// let score = undefined
-// console.log(typeof score);
+let score = undefined
+console.log(typeof score);
+console.log(typeof{score});
 
 // console.log(typeof(score));
-
+// const {score}= req.body
 // let valueInNumber=Number(score)
 // console.log( typeof (valueInNumber));
 // console.log(valueInNumber);
