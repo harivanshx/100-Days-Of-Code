@@ -14,7 +14,13 @@ int main()
 {
 
     int k=6;
-    cout<<fibo(k);
+    cout<<fibo(k);bdo
+    papa; 
+    fabs
+    s
+    int a=d;
+    
+
 
 return 0;
 }
