@@ -7,14 +7,14 @@ const Navigation = () => {
   return (
     <nav className='container'>
         <div className='logo'>
-            <img src="/images/Frame 2 1.png" alt="logo" />
+            <img src="/images/Frame 2 1.png" alt="do some coding logo" />
         </div>
-        <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Connect</li>
-           
-        </ul>
+       <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Linkedin</a></li>
+        <li><a href="#">Navigation</a></li>
+       </ul>
     </nav>
   )
 }
