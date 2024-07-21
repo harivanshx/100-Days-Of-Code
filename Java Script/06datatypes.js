@@ -53,17 +53,19 @@ console.log(typeof(bigNumber))
 
 
 const heros= ["Ironman", "Captain Amarica","HUlk"];
-
+console.log(heros);
 
 
 let myObj={
     naam:"harivansh",
     age:24,
 }
-
+console.log(myObj);
 
 
 
 const myfunction=function(){
     console.log("myfunction")
 }
+a=myfunction;
+console.log(a);
