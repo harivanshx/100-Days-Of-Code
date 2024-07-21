@@ -1,6 +1,10 @@
-let score = undefined
-console.log(typeof score);
-console.log(typeof{score});
+// let score = null;
+// console.log(typeof score);
+// console.log(typeof(score));
+// console.log(typeof{score});
+// let valueInNumber = Number(score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
 // console.log(typeof(score));
 // const {score}= req.body
@@ -23,11 +27,8 @@ console.log(booleanIsLoggerIn);
 // "" => false
 
 
-
-
-
 let someNumber= 33;
-let dtringNumber= String(someNumber)
-console.log(typeof(dtringNumber));
+let stringNumber= String(someNumber)
+console.log(typeof(stringNumber));
 
-console.log(dtringNumber);
+console.log(stringNumber);
