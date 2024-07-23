@@ -69,3 +69,6 @@ const myfunction=function(){
 }
 a=myfunction;
 console.log(a);
+
+
+ 
