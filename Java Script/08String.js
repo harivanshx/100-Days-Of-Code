@@ -20,5 +20,11 @@ console.log(gameName.length);
 console.log(gameName.__proto__);
 console.log(gameName.toLowerCase());
 console.log(gameName.toUpperCase());
-// console.log(gameName.charAt('2'));
-// console.log(gameName.indexOf('r'));
+console.log(gameName.charAt('2'));
+console.log(gameName.indexOf('r'));
+//make a list of all the string methods
+const newString = gameName.substring(0,4);
+console.log(newString);
+ 
+
+
