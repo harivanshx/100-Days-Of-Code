@@ -33,8 +33,15 @@ console.log(gameName.toUpperCase());
 console.log(gameName.charAt('2'));
 console.log(gameName.indexOf('r'));
 //make a list of all the string methods
-const newString = gameName.substring(0,4);
+const newStrng = gameName.substring(0,4);
 console.log(newString);
  
+console.log(gameName.toLowerCase());
+console.log(gameName.toUpperCase());
+console.log(gameName.charAt('2'));
+console.log(gameName.indexOf('r'));
+//make a list of all the string methods
+const newStriing = gameName.substring(0,4);
+console.log(newString);
 
 
