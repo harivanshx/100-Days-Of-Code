@@ -36,6 +36,9 @@ console.log(gameName.indexOf('r'));
 const newStrng = gameName.substring(0,4);
 console.log(newString);
  
+
+
+
 console.log(gameName.toLowerCase());
 console.log(gameName.toUpperCase());
 console.log(gameName.charAt('2'));
@@ -44,4 +47,13 @@ console.log(gameName.indexOf('r'));
 const newStriing = gameName.substring(0,4);
 console.log(newString);
 
+console.log(gameName.toLowerCase());
+console.log(gameName.toUpperCase());
+console.log(gameName.charAt('2'));
+console.log(gameName.indexOf('r'));
+//make a list of all the string methods
+const neStriing = gameName.substring(0,4);
+console.log(neString);
 
+
+console.log("Harryvansh Bhardwaj is a very good boy and we all know that he can do anything in life and he is the fod of cricket");
