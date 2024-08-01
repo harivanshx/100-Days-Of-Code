@@ -13,11 +13,6 @@ anotherName = "Chaiorcode"
 console.log(anotherName);
 console.log(myName);
 
-let user1 = {
-    email:"harivanshx@gmail.com"
-    ,upi:"harivanshbhard@ybl",
-
-}
 
 let user2 = user1;
 user2.email="harox"
